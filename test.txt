@@ -1,1 +1,4 @@
 this is new test
+add(){
+return 10;
+}
